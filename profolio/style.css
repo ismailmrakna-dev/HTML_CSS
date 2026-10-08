@@ -125,11 +125,12 @@ ul{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 64px;
+  gap: 20px;
 }
 
 .presentation__texte {
-  max-width: 600px;
+  max-width: 60vw;
+  margin:20px 5px;
 }
 
 .surtitre {
@@ -157,8 +158,8 @@ ul{
 }
 
 .presentation__photo {
-  width: 340px;
-  height: 340px;
+  width: 500px;
+  height: 500px;
   border-radius: 50%;
 }
 .presentation_quote{
