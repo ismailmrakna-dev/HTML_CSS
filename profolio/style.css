@@ -282,7 +282,7 @@ ul{
 
 /* ---------- 8. Contact ---------- */
 .section--claire {
-  aligh-items: center;
+  display: flex;
   justify-content: center;
 }
 .formulaire {
