@@ -281,6 +281,10 @@ ul{
 }
 
 /* ---------- 8. Contact ---------- */
+.section--claire {
+  aligh-items: center;
+  justify-content: center;
+}
 .formulaire {
   max-width: 560px;
 }
